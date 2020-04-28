@@ -27,7 +27,7 @@ jobs:
 
     # Autobuild attempts to build any compiled languages  (C/C++, C#, or Java).
     # If this step fails, then you should remove it and run the build manually (see bellow)
-    # custom build steps.
+    # custom build steps .
     - name: Autobuild
       uses: Anthophila/codeql-action/codeql/autobuild@master
 
